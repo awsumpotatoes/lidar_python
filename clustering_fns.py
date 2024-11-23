@@ -62,7 +62,7 @@ def get_centroids_z(points, labels, scalar=1):
 
 '''
     Main code for cone clustering
-'''s
+'''
 def predict_cones_z(points): 
     
     if points.shape[0] == 0:
